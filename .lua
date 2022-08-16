@@ -27,7 +27,7 @@ GrabIP()
 
 
 -- init
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/GreenDeno/Venyx-UI-Library/main/source.lua"))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/anonymos62/venyxUI/main/.lua"))()
 local venyx = library.new("Reach Expander v3", 5013109572)
 
 -- themes
